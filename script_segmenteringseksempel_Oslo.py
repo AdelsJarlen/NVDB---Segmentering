@@ -8,8 +8,8 @@ import geopandas as gpd
 from shapely import wkt
 
 import STARTHER
-import nvdbapiv3 
-import segmentering
+import nvdbapiv3
+from nvdbapiv3 import segmentering
 
 
 if __name__ == '__main__': 
