@@ -1,2 +1,5 @@
 /nvdbapiv3
 STARTHER.py
+
+# Default Python stuff
+/__pycache__
